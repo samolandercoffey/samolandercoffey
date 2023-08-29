@@ -22,6 +22,7 @@
 
 <!-- Intro  -->
 <h3 align="center">
+ <img src="https://octodex.github.com/mona-lovelace alt="sam" />
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Sam Olander-Coffey</a></b>
         </samp>
@@ -67,15 +68,19 @@
   
  ✌️ &emsp; I love learning new languages & technologies.<br/><br/>
  ❤️ &emsp; I use my love of art and tech to create new things.<br/><br/>
- 📧 &emsp; Reach me anytime: samolandercoffey@gmail.com<br/>
- 🔭 &emsp; I’m currently working on a social media app for reading and saving books. 
- 🌱 &emsp; I’m currently learning C/C# & .Net.
- 👯 &emsp; I’m looking to collaborate on anything! Feel free to reach out. 
- 🤔 &emsp; I’m looking for help with some good music to code to.
+ 📧 &emsp; Reach me anytime: samolandercoffey@gmail.com<br/><br/>
+ 🔭 &emsp; I’m currently working on a social media app for reading and saving books.<br/><br/>
+ 🌱 &emsp; I’m currently learning C/C# & .Net.<br/><br/>
+ 👯 &emsp; I’m looking to collaborate on anything! Feel free to reach out.</br></br> 
+ 🤔 &emsp; I’m looking for help with some good music to code to.</br></br>
 
 
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
