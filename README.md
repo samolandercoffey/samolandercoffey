@@ -18,12 +18,9 @@
 </a>
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
 <!-- Intro  -->
 <h3 align="center">
- <img src="https://octodex.github.com/mona-lovelace alt="sam" />
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; 😺 Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Sam Olander-Coffey</a></b>
         </samp>
 </h3>
@@ -51,9 +48,6 @@
  <a href="https://twitter.com/samelizabeth23" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/alsiam.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="sam" />
- </a> 
  <a href="https://www.facebook.com/samantha.olander" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="sam"  />
   </a> 
@@ -67,7 +61,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; I love learning new languages & technologies.<br/><br/>
- ❤️ &emsp; I use my love of art and tech to create new things.<br/><br/>
+ ❤️ &emsp; I use my love of art & tech to create new things.<br/><br/>
  📧 &emsp; Reach me anytime: samolandercoffey@gmail.com<br/><br/>
  🔭 &emsp; I’m currently working on a social media app for reading and saving books.<br/><br/>
  🌱 &emsp; I’m currently learning C/C# & .Net.<br/><br/>
@@ -82,10 +76,8 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
-## Use To Code
+## What I Use To Code:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -135,4 +127,3 @@
 </a>
 
 
-![Al Siam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=samolandercoffey&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
