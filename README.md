@@ -95,8 +95,8 @@
 <br/>
 
 ## My top projects:
-https://github.com/samolandercoffey/WeeShelf-MVC
-https://github.com/samolandercoffey/WishList-App
+<br>https://github.com/samolandercoffey/WeeShelf-MVC</br>
+<br>https://github.com/samolandercoffey/WishList-App</br>
 
 
 
