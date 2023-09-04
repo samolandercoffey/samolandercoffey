@@ -61,7 +61,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; I love learning new languages & technologies.<br/><br/>
- ❤️ &emsp; I use my love of art & tech to create new things.<br/><br/>
+ ❤️ &emsp; I use my love of travel, art & tech to create new things.<br/><br/>
  📧 &emsp; Reach me anytime: samolandercoffey@gmail.com<br/><br/>
  🔭 &emsp; I’m currently working on a social media app for reading and saving books.<br/><br/>
  🌱 &emsp; I’m currently learning C/C# & .Net.<br/><br/>
