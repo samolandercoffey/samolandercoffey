@@ -64,7 +64,7 @@
  ❤️ &emsp; I use my love of travel, art & tech to create new things.<br/><br/>
  📧 &emsp; Reach me anytime: samolandercoffey@gmail.com<br/><br/>
  🔭 &emsp; I’m currently working on a social media app for reading and saving books.<br/><br/>
- 🌱 &emsp; I’m currently learning C/C# & .Net.<br/><br/>
+ 🌱 &emsp; I’m currently learning React.<br/><br/>
  👯 &emsp; I’m looking to collaborate on anything! Feel free to reach out.</br></br> 
  🤔 &emsp; I’m looking for help with some good music to code to.</br></br>
 
